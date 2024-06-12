@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "890638623230",
+    "project_id": "al-itqan",
+    "storage_bucket": "al-itqan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890638623230:android:071f844b3371b8cbb5e0af",
+        "android_client_info": {
+          "package_name": "com.example.alitqaan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmSp2zxUlNuPQ_K0X5vUub7uTCT_wnq3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
